@@ -10,7 +10,7 @@ Hey, l'[OP-NC](https://www.opt.nc/) est aussi sur Github 👐
 # 🔖Open Data
 
 En tant qu'acteur majeur du numérique en Nouvelle-Calédonie, l'OPT-NC contribue des jeux de données sur la
-plateforme d'Open Data du Gouvernement de Nouvelle-Calédonie [DATA.GOUC.NC](https://data.gouv.nc/explore/?q=opt&disjunctive.theme&disjunctive.publisher&disjunctive.keyword&disjunctive.attributions&disjunctive.license&sort=explore.popularity_score&refine.publisher=Office+des+postes+et+t%C3%A9l%C3%A9communications+de+Nouvelle-Cal%C3%A9donie+(OPT-NC))
+plateforme d'Open Data du Gouvernement de Nouvelle-Calédonie [DATA.GOUV.NC](https://data.gouv.nc/explore/?q=opt&disjunctive.theme&disjunctive.publisher&disjunctive.keyword&disjunctive.attributions&disjunctive.license&sort=explore.popularity_score&refine.publisher=Office+des+postes+et+t%C3%A9l%C3%A9communications+de+Nouvelle-Cal%C3%A9donie+(OPT-NC))
 
 ## 🗺️Plateforme Open Data SIG de l'OPT-NC
 
