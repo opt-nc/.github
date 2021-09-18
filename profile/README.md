@@ -1,3 +1,5 @@
+[![Twitter Follow](https://img.shields.io/twitter/follow/OPT_NC?style=social)](https://twitter.com/opt_nc)
+
 Hey, l'[OPT-NC](https://www.opt.nc/) est aussi sur Github 👐
 
 ![Logo OPT-NC](https://raw.githubusercontent.com/opt-nc/.github/main/img/nc_opt.gif "Logo OPT-NC")
