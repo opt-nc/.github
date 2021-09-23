@@ -9,7 +9,14 @@ Hey, l'[OPT-NC](https://www.opt.nc/) est aussi sur Github 👐
 > *"L'OPT-NC souhaite valoriser l'information publique dans l'objectif de développer l'économie numérique et favoriser les projets d'aménagement du territoire. 
 "*
 
-# 🔖Open Data
+# 🔖Portail d'APIs
+
+L'OPT-NC commence à se lancer sur les APIs publiques afin que les partenaires soient toujours plus performants et libres d'intégrer
+les services de l'OPT à leurs propres processus.
+
+Découvrez quels services sont disponibles en vous rendant sur [notre portail sur RapidAPI](https://rapidapi.com/organization/opt-nc).
+
+# 👐 Open Data
 
 En tant qu'acteur majeur du numérique en Nouvelle-Calédonie, l'OPT-NC contribue des jeux de données sur la
 plateforme d'Open Data du Gouvernement de Nouvelle-Calédonie [DATA.GOUV.NC](https://data.gouv.nc/explore/?q=opt&disjunctive.theme&disjunctive.publisher&disjunctive.keyword&disjunctive.attributions&disjunctive.license&sort=explore.popularity_score&refine.publisher=Office+des+postes+et+t%C3%A9l%C3%A9communications+de+Nouvelle-Cal%C3%A9donie+(OPT-NC))
