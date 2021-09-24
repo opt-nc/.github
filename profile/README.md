@@ -35,3 +35,7 @@ des images Docker avec des exemples d'intégration seront prochainement disponib
 
 Des cours interactifs permettant d'expérimenter sur certains services ont été créés et mis à disposition sur [KataCoda](https://www.katacoda.com/opt-labs/).
 Ainsi, depuis votre navigateur vous serez guidés dans les expérimentations ce qui vous permettra peut-être de concevoir vos propres intégrations.
+
+# 🧑‍🤝‍🧑 Nous rejoindre
+
+Vous trouvez cette approche stimulante, vous aimez le digital et l'innovation, alors postulez sur [notre site institutionnel dédié](https://office.opt.nc/fr/emploi-et-carriere/postuler-lopt-nc/offres-emploi). 👐
