@@ -38,4 +38,4 @@ Ainsi, depuis votre navigateur vous serez guidés dans les expérimentations ce 
 
 # 🧑‍🤝‍🧑 Nous rejoindre
 
-Vous trouvez cette approche stimulante, vous aimez le digital et l'innovation, alors postulez sur [notre site institutionnel dédié](https://office.opt.nc/fr/emploi-et-carriere/postuler-lopt-nc/offres-emploi). 👐
+Vous trouvez cette approche stimulante, vous aimez le digital et l'innovation, alors candidatez sur [notre site institutionnel dédié](https://office.opt.nc/fr/emploi-et-carriere/postuler-lopt-nc/offres-emploi). 👐
