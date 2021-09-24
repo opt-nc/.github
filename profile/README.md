@@ -4,7 +4,7 @@ Hey, l'[OPT-NC](https://www.opt.nc/) est aussi sur Github 👐
 
 ![Logo OPT-NC](https://raw.githubusercontent.com/opt-nc/.github/main/img/nc_opt.gif "Logo OPT-NC")
 
-# 🧑‍🤝‍🧑Credo
+# 🗣️ Credo
 
 > *"L'OPT-NC souhaite valoriser l'information publique dans l'objectif de développer l'économie numérique et favoriser les projets d'aménagement du territoire. 
 "*
