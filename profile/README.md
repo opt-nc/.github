@@ -2,7 +2,7 @@
 
 Hey, l'[OPT-NC](https://www.opt.nc/) est aussi sur Github 👐
 
-![Logo OPT-NC](../img/nc_opt.gif "Logo OPT-NC")
+![Logo OPT-NC](https://raw.githubusercontent.com/opt-nc/.github/main/img/nc_opt.gif "Logo OPT-NC")
 
 # 🗣️ Credo
 
