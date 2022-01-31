@@ -36,6 +36,14 @@ des images Docker avec des exemples d'intégration seront prochainement disponib
 Des cours interactifs permettant d'expérimenter sur certains services ont été créés et mis à disposition sur notre [KataCoda `OPT-LABS`](https://www.katacoda.com/opt-labs/).
 Ainsi, depuis votre navigateur vous serez guidés dans les expérimentations ce qui vous permettra peut-être de concevoir vos propres intégrations... voire d'en demander de nouvelles.
 
+# 💪 Github Actions
+
+Les [Github Actions](https://github.com/features/actions) sont un moyen efficace de packager des actions et de l'automatisation au sein de la CI de Github. Ces actions peuvent prendre des formes très variées et permettent de construire des [workflows potentiellement complexes mais très modulaires](https://dev.to/devteam/join-us-for-the-2021-github-actions-hackathon-on-dev-4hn4).
+
+Quelques exemples de Github Actions développées par l'OPT-NC : 
+
+- [Deploy with Tower Ansible](https://github.com/marketplace/actions/deploy-with-tower-ansible) : pour automatiser des déploiement Ansible depuis Github
+
 # 🧑‍🤝‍🧑 Nous rejoindre
 
 Vous trouvez cette approche stimulante, vous aimez le digital et l'innovation, alors candidatez sur [notre site institutionnel dédié](https://office.opt.nc/fr/emploi-et-carriere/postuler-lopt-nc/offres-emploi). 👐
