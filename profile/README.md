@@ -31,10 +31,10 @@ Egalement, l'OPT-NC soutient la démarche Open Data en Nouvelle-Calédonie en pu
 Dans un souci de performance pour les développeurs qui souhaitent intégrer certains services,
 des images Docker avec des exemples d'intégration seront prochainement disponibles : restez connecté 😺
 
-# 🕹️Apprendre et tester
+# 🕹️Apprendre et tester avec `OPT-LABS`
 
-Des cours interactifs permettant d'expérimenter sur certains services ont été créés et mis à disposition sur [KataCoda](https://www.katacoda.com/opt-labs/).
-Ainsi, depuis votre navigateur vous serez guidés dans les expérimentations ce qui vous permettra peut-être de concevoir vos propres intégrations.
+Des cours interactifs permettant d'expérimenter sur certains services ont été créés et mis à disposition sur notre [KataCoda `OPT-LABS`](https://www.katacoda.com/opt-labs/).
+Ainsi, depuis votre navigateur vous serez guidés dans les expérimentations ce qui vous permettra peut-être de concevoir vos propres intégrations... voire d'en demander de nouvelles.
 
 # 🧑‍🤝‍🧑 Nous rejoindre
 
