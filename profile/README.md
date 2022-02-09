@@ -31,10 +31,35 @@ Egalement, l'OPT-NC soutient la démarche Open Data en Nouvelle-Calédonie en pu
 Dans un souci de performance pour les développeurs qui souhaitent intégrer certains services,
 des images Docker avec des exemples d'intégration seront prochainement disponibles : restez connecté 😺
 
-# 🕹️Apprendre et tester avec `OPT-LABS`
+# 🧑‍🤝‍🧑 `#devrel` 💙
+
+Des ressources crées par nos développeurs pour les développeurs, basé sur le principe "Eat your own 🐶 🥫".
+
+## 🕹️Apprendre et tester avec `OPT-LABS`
 
 Des cours interactifs permettant d'expérimenter sur certains services ont été créés et mis à disposition sur notre [KataCoda `OPT-LABS`](https://www.katacoda.com/opt-labs/).
 Ainsi, depuis votre navigateur vous serez guidés dans les expérimentations ce qui vous permettra peut-être de concevoir vos propres intégrations... voire d'en demander de nouvelles.
+
+## 🖊️Blogging
+
+La synthèse de certains points techniques fait partie de l'apprentissage continu et permet d'ancrer les savoirs et d'organiser des sessions internes de partage de code.
+
+Ci-dessous, les contributeurs actifs de posts techniques :
+
+- [`@mbarre`](https://dev.to/mbarre)
+- [`@adriens`](https://dev.to/adriens)
+- ... bientôt de nouveaux collaborateurs pour de nouveaux contenus 🤙
+
+Ainsi que quelques posts :
+
+- [Cas d'utilisation de Carvel vendir](https://dev.to/adriens/deploy-neo4j-s-apoc-plugin-with-code-thanks-to-carvel-vendir-33l4)
+- [Charger des csv dans PostgreSQL et faire des charts depuis le shell](https://dev.to/adriens/draw-charts-from-terminal-with-psql-and-termgraph-50k6)
+- [Démo API de suivi des colis](https://dev.to/adriens/getting-package-delivery-status-from-docker-at-opt-nc-8d1)
+- [Documenter des endpoints `actuator` (Spring Boot)](https://dev.to/mbarre/documents-spring-boot-actuator-endpoint-with-openapi-5hnf)
+- [Test unitaire sur un enpoint actutator custom](https://dev.to/mbarre/how-to-unit-test-a-custom-actuator-endpoint-3h4p)
+- [Création d'enpoint custom actuator pour monitorer Jira](https://dev.to/mbarre/how-to-create-a-custom-actuator-endpoint-to-monitor-jira-228o)
+- [Création de Gh Action custome pour déployer en continu](https://dev.to/adriens/speeding-up-time-to-market-with-custom-github-actions-3md0)
+- [Cas d'utilisation de Neo4J pour analyser un graphe](https://dev.to/adriens/about-the-collatz-conjecture-neo4j-cypher-184h)
 
 # 💪 Github Actions
 
