@@ -9,7 +9,7 @@ Hey, l'[OPT-NC](https://www.opt.nc/) est aussi sur Github 👐
 > *"L'OPT-NC souhaite valoriser l'information publique dans l'objectif de développer l'économie numérique et favoriser les projets d'aménagement du territoire. 
 "*
 
-# 🔖Portail d'APIs
+# 🔖 Portail d'APIs
 
 L'OPT-NC commence à se lancer sur les APIs publiques afin que les partenaires soient toujours plus performants et libres d'intégrer
 les services de l'OPT à leurs propres processus.
@@ -23,7 +23,7 @@ plateforme d'Open Data du Gouvernement de Nouvelle-Calédonie [DATA.GOUV.NC](htt
 
 ## 🗺️ Plateforme Open Data SIG de l'OPT-NC
 
-Egalement, l'OPT-NC soutient la démarche Open Data en Nouvelle-Calédonie en publiant [sa propre plateforme de diffusion de données géographiques](https://maps.opendata.opt.nc/) offre des fonctionnalités de recherche, navigation et téléchargement.
+Egalement, l'OPT-NC soutient la démarche Open Data en Nouvelle-Calédonie en publiant [sa propre plateforme de diffusion de données géographiques](https://maps.opendata.opt.nc/) qui offre des fonctionnalités de recherche, de navigation et de téléchargement.
 
 
 # 🐋 Images Docker publiques
@@ -67,7 +67,7 @@ Les [Github Actions](https://github.com/features/actions) sont un moyen efficace
 
 Quelques exemples de Github Actions développées par l'OPT-NC : 
 
-- [Deploy with Tower Ansible](https://github.com/marketplace/actions/deploy-with-tower-ansible) : pour automatiser des déploiement Ansible depuis Github
+- [Deploy with Tower Ansible](https://github.com/marketplace/actions/deploy-with-tower-ansible) : pour automatiser des déploiements Ansible depuis Github
 
 # 🧑‍🤝‍🧑 Nous rejoindre
 
