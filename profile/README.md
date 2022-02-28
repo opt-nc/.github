@@ -69,6 +69,7 @@ Quelques exemples de Github Actions développées par l'OPT-NC :
 
 - [Deploy with Tower Ansible](https://github.com/marketplace/actions/deploy-with-tower-ansible) : pour automatiser des déploiements Ansible depuis Github
 - [Yaml fixer](https://github.com/marketplace/actions/yaml-fixer) : pour veiller à la quaité des `yaml`, via une Action qui fait des PRs (Pull Requests) en cas de non conformité
+- [domaine.nc validity](https://github.com/marketplace/actions/get-your-nc-domain-validity-metadata) : une action qui permet de tester en continu sur un domaine est expiré ou non
 
 # 🧑‍🤝‍🧑 Nous rejoindre
 
