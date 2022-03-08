@@ -48,7 +48,7 @@ Ci-dessous, les contributeurs actifs de posts techniques :
 
 - [`@mbarre`](https://dev.to/mbarre)
 - [`@adriens`](https://dev.to/adriens)
-- ... bientôt de nouveaux collaborateurs pour de nouveaux contenus 🤙
+- [`@dougniel`](https://dev.to/dougniel)
 
 Ainsi que quelques posts :
 
@@ -60,6 +60,7 @@ Ainsi que quelques posts :
 - [Création d'enpoint custom actuator pour monitorer Jira](https://dev.to/mbarre/how-to-create-a-custom-actuator-endpoint-to-monitor-jira-228o)
 - [Création de Gh Action custome pour déployer en continu](https://dev.to/adriens/speeding-up-time-to-market-with-custom-github-actions-3md0)
 - [Cas d'utilisation de Neo4J pour analyser un graphe](https://dev.to/adriens/about-the-collatz-conjecture-neo4j-cypher-184h)
+- [Suivre l'état d'avancement de ses colis avec `knative` sur `kubernetes`](https://dev.to/dougniel/knative-the-easy-way-to-serverless-a-java-app-3n36)
 
 # 💪 Github Actions
 
