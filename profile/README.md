@@ -29,7 +29,7 @@ Egalement, l'OPT-NC soutient la démarche Open Data en Nouvelle-Calédonie en pu
 # 🐋 Images Docker publiques
 
 Dans un souci de performance pour les développeurs qui souhaitent intégrer certains services,
-des images Docker avec des exemples d'intégration seront prochainement disponibles : restez connecté 😺
+des **images Docker publiques** avec des exemples d'intégration sont disponibles sur [Dockerhub](https://hub.docker.com/u/optnc). 😺
 
 # 🧑‍🤝‍🧑 `#devrel` 💙
 
