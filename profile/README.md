@@ -61,6 +61,7 @@ Ainsi que quelques posts :
 - [Création de Gh Action custome pour déployer en continu](https://dev.to/adriens/speeding-up-time-to-market-with-custom-github-actions-3md0)
 - [Cas d'utilisation de Neo4J pour analyser un graphe](https://dev.to/adriens/about-the-collatz-conjecture-neo4j-cypher-184h)
 - [Suivre l'état d'avancement de ses colis avec `knative` sur `kubernetes`](https://dev.to/dougniel/knative-the-easy-way-to-serverless-a-java-app-3n36)
+- [Let CI check & fix your yamls](https://dev.to/adriens/let-ci-check-fix-your-yamls-kfa)
 
 # 💪 Github Actions
 
