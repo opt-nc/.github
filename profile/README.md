@@ -44,6 +44,8 @@ Ainsi, depuis votre navigateur vous serez guidés dans les expérimentations ce 
 
 La synthèse de certains points techniques fait partie de l'apprentissage continu et permet d'ancrer les savoirs et d'organiser des sessions internes de partage de code.
 
+Pour cela, nous disposons d'une [organisation sur DEV.to](https://dev.to/optnc), afin de rendre le suivi de nos activités plus aisé.
+
 Ci-dessous, les contributeurs actifs de posts techniques :
 
 - [`@mbarre`](https://dev.to/mbarre)
