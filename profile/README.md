@@ -37,10 +37,10 @@ Des ressources crées par nos développeurs pour les développeurs, basé sur le
 
 ## 🕹️ Apprendre et tester avec `OPT-LABS`
 
-Des cours interactifs permettant d'expérimenter sur certains services ont été créés et mis à disposition sur notre [KataCoda `OPT-LABS`](https://www.katacoda.com/opt-labs/).
+Des cours interactifs permettant d'expérimenter sur certains services ont été créés et mis à disposition sur notre [KillerCoda `OPT-LABS`](https://killercoda.com/opt-labs).
 Ainsi, depuis votre navigateur vous serez guidés dans les expérimentations ce qui vous permettra peut-être de concevoir vos propres intégrations... voire d'en demander de nouvelles.
 
-## 🖊️Blogging
+## 🖊️ Blogging
 
 La synthèse de certains points techniques fait partie de l'apprentissage continu et permet d'ancrer les savoirs et d'organiser des sessions internes de partage de code.
 
