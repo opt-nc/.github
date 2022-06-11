@@ -11,7 +11,7 @@ Hey, l'[OPT-NC](https://www.opt.nc/) est aussi sur Github 👐
 
 # 🔖 Portail d'APIs
 
-L'OPT-NC commence à se lancer sur les APIs publiques afin que les partenaires soient toujours plus performants et libres d'intégrer
+L'OPT-NC met à disposition des APIs publiques afin que les partenaires soient toujours plus performants et libres d'intégrer
 les services de l'OPT à leurs propres processus.
 
 Découvrez quels services sont disponibles en vous rendant sur [notre portail sur RapidAPI](https://rapidapi.com/organization/opt-nc).
