@@ -1,8 +1,27 @@
+<table>
+  <tr>
+    <td>
+        <a href = "https://office.opt.nc/"><img src="https://raw.githubusercontent.com/opt-nc/.github/main/img/nc_opt.gif" width="200"/></a>
+    </td>
+    <td>
+        <a href="https://rapidapi.com/organization/opt-nc" target="_blank">
+            <img src="https://storage.googleapis.com/rapidapi-documentation/connect-on-rapidapi-dark.png" width="215" alt="Connect on RapidAPI">
+        </a>
+    </td>
+    <td>
+        <a href="https://hub.docker.com/u/optnc" target="_blank">
+            <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="100"/>
+        </a>
+    </td>
+    <td>
+        <a href="https://dev.to/optnc" target="_blank">
+            <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="150"/>
+        </a>
+    </td>
+  </tr>
+</table>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/OPT_NC?style=social)](https://twitter.com/opt_nc)
-
-Hey, l'[OPT-NC](https://www.opt.nc/) est aussi sur Github 👐
-
-![Logo OPT-NC](https://raw.githubusercontent.com/opt-nc/.github/main/img/nc_opt.gif "Logo OPT-NC")
 
 # 🗣️ Credo
 
