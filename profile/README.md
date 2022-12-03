@@ -18,6 +18,11 @@
             <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="150"/>
         </a>
     </td>
+    <td>
+        <a href="https://killercoda.com/opt-labs/" target="_blank">
+            <img src="https://killercoda.com/img/kc_logo_beta.99b1cc0f.svg" width="150"/>
+        </a>
+    </td>
   </tr>
 </table>
 
