@@ -27,6 +27,7 @@
 </table>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/OPT_NC?style=social)](https://twitter.com/opt_nc)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109769961268345327?domain=https%3A%2F%2Ffosstodon.org%2F&style=social)](https://fosstodon.org/@OPT_NC)
 
 # 🗣️ Credo
 
