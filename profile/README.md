@@ -20,7 +20,7 @@
     </td>
     <td>
         <a href="https://killercoda.com/opt-labs/" target="_blank">
-            <img src="https://killercoda.com/img/kc_logo_beta.99b1cc0f.svg" width="150"/>
+            <img src="https://avatars.githubusercontent.com/u/88902003?s=200&v=4" width="150"/>
         </a>
     </td>
   </tr>
