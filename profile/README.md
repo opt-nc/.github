@@ -4,11 +4,6 @@
         <a href = "https://office.opt.nc/"><img src="https://raw.githubusercontent.com/opt-nc/.github/main/img/nc_opt.gif" width="200"/></a>
     </td>
     <td>
-        <a href="https://rapidapi.com/organization/opt-nc" target="_blank">
-            <img src="https://storage.googleapis.com/rapidapi-documentation/connect-on-rapidapi-dark.png" width="215" alt="Connect on RapidAPI">
-        </a>
-    </td>
-    <td>
         <a href="https://hub.docker.com/u/optnc" target="_blank">
             <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="100"/>
         </a>
@@ -103,3 +98,4 @@ Quelques exemples de Github Actions développées par l'OPT-NC :
 # 🧑‍🤝‍🧑 Nous rejoindre
 
 Vous trouvez cette approche stimulante, vous aimez le digital et l'innovation, alors candidatez sur [notre site institutionnel dédié](https://office.opt.nc/fr/emploi-et-carriere/postuler-lopt-nc/offres-emploi). 👐
+
