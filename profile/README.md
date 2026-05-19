@@ -21,7 +21,7 @@
         </a>
     </td>
     <td>
-        <a href="https://huggingface.co/optnc" target="_blank" title="OPT-NC sur Hugging Face">
+        <a href="https://huggingface.co/opt-nc" target="_blank" title="OPT-NC sur Hugging Face">
             <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="150"/>
         </a>
     </td>
