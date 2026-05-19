@@ -1,28 +1,40 @@
 <table>
   <tr>
     <td>
-        <a href = "https://office.opt.nc/"><img src="https://raw.githubusercontent.com/opt-nc/.github/main/img/nc_opt.gif" width="200"/></a>
+        <a href="https://office.opt.nc/" title="OPT Nouvelle-Calédonie">
+            <img src="https://raw.githubusercontent.com/opt-nc/.github/main/img/nc_opt.gif" width="200"/>
+        </a>
     </td>
     <td>
-        <a href="https://hub.docker.com/u/optnc" target="_blank">
+        <a href="https://hub.docker.com/u/optnc" target="_blank" title="OPT-NC sur Docker Hub">
             <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="100"/>
         </a>
     </td>
     <td>
-        <a href="https://dev.to/optnc" target="_blank">
+        <a href="https://dev.to/optnc" target="_blank" title="OPT-NC sur DEV.to">
             <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="150"/>
         </a>
     </td>
     <td>
-        <a href="https://killercoda.com/opt-labs/" target="_blank">
+        <a href="https://killercoda.com/opt-labs/" target="_blank" title="OPT Labs sur Killercoda">
             <img src="https://avatars.githubusercontent.com/u/88902003?s=200&v=4" width="150"/>
+        </a>
+    </td>
+    <td>
+        <a href="https://huggingface.co/optnc" target="_blank" title="OPT-NC sur Hugging Face">
+            <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="150"/>
+        </a>
+    </td>
+    <td>
+        <a href="https://apigee-optnc-prd-api.apigee.io/" target="_blank" title="Portail API OPT-NC (Apigee)">
+            <img src="https://www.gstatic.com/bricks/image/b45728f17bf88494b25d78a9fb27ae538e6eb4a06a972f6502b7410ff714532d.svg" width="150"/>
         </a>
     </td>
   </tr>
 </table>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/OPT_NC?style=social)](https://twitter.com/opt_nc)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/109769961268345327?domain=https%3A%2F%2Ffosstodon.org%2F&style=social)](https://fosstodon.org/@OPT_NC)
+
 
 # 🗣️ Credo
 
